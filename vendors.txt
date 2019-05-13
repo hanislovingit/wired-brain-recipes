@@ -1,3 +1,0 @@
-vendor Adam
-vendor Holly
-vendor Chuck
